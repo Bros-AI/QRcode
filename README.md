@@ -2,9 +2,6 @@
 
 A simple, fast, and modern web-based tool to generate and scan QR codes directly in your browser. Built with vanilla HTML, CSS, and JavaScript, leveraging powerful libraries for QR code functionality.
 
-![Screenshot Placeholder - Add a screenshot of your tool here!](https://via.placeholder.com/600x400.png?text=QR+Code+Tool+Screenshot)
-*(Replace the placeholder above with an actual screenshot of your tool)*
-
 ## ✨ Features
 
 *   **Generate QR Codes:**
@@ -35,22 +32,6 @@ A simple, fast, and modern web-based tool to generate and scan QR codes directly
 *   **[qrcode.js](https://github.com/davidshimjs/qrcodejs):** A popular JavaScript library for generating QR codes. (CDN: `qrcode.min.js`)
 *   **[html5-qrcode](https://github.com/mebjas/html5-qrcode):** A robust JavaScript library for implementing QR code scanning using the device camera. (CDN: `html5-qrcode`)
 
-## 🛠️ Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPONAME.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd YOUR_REPONAME
-    ```
-3.  **Open `index.html` in your browser:**
-    Simply open the `index.html` file in your preferred web browser.
-
-    *Note: For camera access (scanning functionality) to work correctly, some browsers might require the page to be served over HTTPS or `localhost`. You can use a simple live server extension in your code editor (like Live Server for VS Code) for this.*
 
 ## 📋 Usage
 
@@ -80,16 +61,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 Please make sure to update tests as appropriate.
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` file for more information.
-*(You should create a `LICENSE` file in your repository, typically containing the MIT License text if that's your choice.)*
-
-## 📧 Contact
-
-Gauthier Bros - [Your Project Link or Contact Email, if desired]
-
-Project Link: [https://github.com/YOUR_USERNAME/YOUR_REPONAME](https://github.com/YOUR_USERNAME/YOUR_REPONAME)
 
 ---
 
